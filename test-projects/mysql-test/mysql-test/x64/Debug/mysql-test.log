@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\Graduation-project\mysql-test\mysql-test\源.cpp(14,46): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+D:\Graduation-project\mysql-test\mysql-test\源.cpp(22,46): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+  mysql-test.vcxproj -> D:\Graduation-project\mysql-test\x64\Debug\mysql-test.exe
